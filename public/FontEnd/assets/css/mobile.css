@@ -1,0 +1,320 @@
+@media (min-width: 1500px) {}
+
+@media (max-width: 1200px) {}
+
+@media (max-width: 1024px) {}
+
+@media (max-width: 991px) {
+    .col,
+    .col-1,
+    .col-10,
+    .col-11,
+    .col-12,
+    .col-2,
+    .col-3,
+    .col-4,
+    .col-5,
+    .col-6,
+    .col-7,
+    .col-8,
+    .col-9,
+    .col-auto,
+    .col-lg,
+    .col-lg-1,
+    .col-lg-10,
+    .col-lg-11,
+    .col-lg-12,
+    .col-lg-2,
+    .col-lg-3,
+    .col-lg-4,
+    .col-lg-5,
+    .col-lg-6,
+    .col-lg-7,
+    .col-lg-8,
+    .col-lg-9,
+    .col-lg-auto,
+    .col-md,
+    .col-md-1,
+    .col-md-10,
+    .col-md-11,
+    .col-md-12,
+    .col-md-2,
+    .col-md-3,
+    .col-md-4,
+    .col-md-5,
+    .col-md-6,
+    .col-md-7,
+    .col-md-8,
+    .col-md-9,
+    .col-md-auto,
+    .col-sm,
+    .col-sm-1,
+    .col-sm-10,
+    .col-sm-11,
+    .col-sm-12,
+    .col-sm-2,
+    .col-sm-3,
+    .col-sm-4,
+    .col-sm-5,
+    .col-sm-6,
+    .col-sm-7,
+    .col-sm-8,
+    .col-sm-9,
+    .col-sm-auto,
+    .col-xl,
+    .col-xl-1,
+    .col-xl-10,
+    .col-xl-11,
+    .col-xl-12,
+    .col-xl-2,
+    .col-xl-3,
+    .col-xl-4,
+    .col-xl-5,
+    .col-xl-6,
+    .col-xl-7,
+    .col-xl-8,
+    .col-xl-9,
+    .col-xl-auto {
+        width: 100%;
+        max-width: 100%;
+        flex: auto;
+    }
+    .header-inner-h .info-head ul li h6 {
+        display: none;
+    }
+    header .header-top .col-md-6 {
+        max-width: 50%;
+    }
+    .nav-inner {
+        display: none;
+    }
+    .menu-left .mobile-nav-toggler {
+        display: block;
+        margin-inline-start: 10px;
+    }
+    header .menu-nav .header-in {
+        justify-content: space-between;
+    }
+    .owl-carousel .owl-dots .owl-dot span {
+        width: 10px;
+        height: 10px;
+        margin: 0 2px;
+    }
+    .owl-carousel .owl-dots {
+        margin: 0 0 30px;
+    }
+    .slider-block,
+    .slider-block .row {
+        min-height: 350px;
+    }
+    .slider-block .text-slider h1 {
+        font-size: 32px;
+        line-height: normal;
+    }
+    .slider-block .text-slider p {
+        font-size: 14px;
+        line-height: 25px;
+        max-height: 50px;
+        margin: 10px 0 30px;
+    }
+    .btn {
+        min-width: 130px;
+        min-height: 40px;
+        font-size: 14px;
+    }
+    .header-inner-h .info-head ul li {
+        /* padding: 0 10px; */
+    }
+    .header-inner-h .info-head ul li i {
+        margin: 0;
+        font-size: 18px;
+    }
+    .logo-h .logo {
+        width: 80px;
+    }
+    .about-h {
+        padding: 40px 0;
+    }
+    .title h3 {
+        font-size: 26px;
+    }
+    .text-banner {
+        padding: 0;
+    }
+    .text-banner h1 {
+        font-size: 24px;
+        line-height: 1.6;
+    }
+    .text-banner p {
+        font-size: 14px;
+        margin: 10px 0;
+    }
+    .text-banner .btn {
+        margin-top: 15px;
+    }
+    .img-banner {
+        margin: 20px 0 0;
+        width: 100%;
+    }
+    .services-h {
+        padding: 40px 0;
+    }
+    .all-serv-h .first-div,
+    .all-serv-h .sec-div {
+        width: 100%;
+        padding: 0;
+    }
+    .all-serv-h {
+        display: block;
+    }
+    .all-serv-h .first-div::before {
+        display: none;
+    }
+    .sec-div .div-inner .item .item-inner::before {
+        display: none;
+    }
+    .sec-div .div-inner .item .item-inner .circel-h {
+        display: none;
+    }
+    .sec-div .div-inner .item {
+        margin: 23px 0 !important;
+    }
+    .sec-div .div-inner .item .item-inner .num {
+        margin-inline-start: -20px;
+    }
+    .title h1,
+    .title span {
+        font-size: 22px;
+    }
+    .title {
+        margin: 0 0 20px;
+    }
+    .clients-h {
+        padding: 20px 0;
+    }
+    .all-counter-h .item {
+        max-width: 100%;
+        flex: auto;
+        padding: 0;
+        margin: 15px 0;
+    }
+    .count-block .details {
+        width: auto;
+    }
+    .count-block {
+        justify-content: center;
+    }
+    .form-contact {
+        padding: 25px 20px;
+    }
+    .contact-inner.row {
+        border-radius: 10px;
+    }
+    .map-con {
+        height: 300px;
+        border-radius: 10px;
+    }
+    .contact-h {
+        padding: 20px 0 40px;
+    }
+    .profile-h {
+        margin: 19px 0;
+    }
+    .foot-col h3 {
+        margin: 16px 0;
+    }
+    .footer-bottom {
+        text-align: center;
+    }
+    .footer-bottom .row {
+        flex-direction: column-reverse;
+    }
+    .copyRight {
+        justify-content: center;
+        margin: 0 0 17px;
+    }
+    .breadcrumb {
+        padding: 30px 0 40px;
+    }
+    .text-bread h1 {
+        font-size: 24px;
+        line-height: normal;
+    }
+    .text-bread ul li a,
+    .text-bread ul li span {
+        font-size: 14px;
+    }
+    .body-inner {
+        padding: 40px 0;
+    }
+    .works-page .row:nth-child(odd) .text-work {
+        padding: 30px 0;
+    }
+    .works-page .row::before,
+    .works-page .row::after {
+        display: none;
+    }
+    .works-page .row:nth-child(odd) {
+        padding-top: 0;
+    }
+    .img-work {
+        margin: 30px 0;
+        box-shadow: none;
+    }
+    .test-block .item .details p {
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .test-block .item .user-img {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .test-block .item .user-img img {
+        max-width: 32px;
+    }
+    .test-block .item .details {
+        width: calc(100% - 50px);
+    }
+    .test-block {
+        padding: 24px 15px;
+    }
+    .works-single .row:nth-child(even) {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 768px) {}
+
+@media (max-width: 767px) {
+    .slider-block .text-slider h1 {
+        font-size: 25px;
+    }
+    .projects-h .col-md-3,
+    .services-h .col-md-3 {
+        max-width: initial;
+    }
+    .form-contact .form-contact {
+        padding: 0;
+    }
+    .logo-f a img {
+        max-width: 100px;
+    }
+    .active .logo-h .logo {
+        width: 60px;
+    }
+}
+
+@media (max-width: 600px) {
+    .container {
+        max-width: 100%;
+        padding: 0 30px;
+    }
+}
+
+@media (max-width: 480px) {}
+
+@media (max-width: 390px) {}
+
+@media (max-width: 360px) {}
